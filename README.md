@@ -114,4 +114,3 @@ $mailer->send('admin@yourdomain.com', 'New Web Submission', $htmlBody, $_POST['u
 ## License
 
 This component is open-source software licensed under the MIT license.
-```
