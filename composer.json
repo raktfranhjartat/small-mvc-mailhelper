@@ -1,0 +1,21 @@
+{
+    "name": "raktfranhjartat/mailhelper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Raktfranhjartat\\MailHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kim Persson",
+            "email": "kim.persson@kpb.nu"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0",
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
